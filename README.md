@@ -1,2 +1,3 @@
-# test
-test repository
+# Johns Hopkins University course assignments
+
+
